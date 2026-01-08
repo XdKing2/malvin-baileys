@@ -381,7 +381,7 @@ if(usePairingCode && !sock.authState.creds.registered) {
     <h3>🚀 Step 1: Install</h3>
     <p>Add baileys-elite to your project using npm</p>
     <div style="background: rgba(0, 0, 0, 0.2); padding: 10px; border-radius: 5px;">
-      <code>npm install Malvin-baileys</code>
+      <code>npm install malvin-baileys</code>
     </div>
   </div>
   
