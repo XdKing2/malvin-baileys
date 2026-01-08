@@ -81,14 +81,14 @@ npm install malvin-baileys
 
 ```typescript
 // ESM 
-import makeWASocket from 'Malvin-baileys'
+import makeWASocket from 'malvin-baileys'
 ```
 </div>
 <div style="background: rgba(234, 179, 8, 0.1); border-radius: 5px; padding: 10px; flex: 1;">
 
 ```javascript
 // CommonJS
-const { default: makeWASocket } = require("Malvin-baileys")
+const { default: makeWASocket } = require("malvin-baileys")
 ```
 </div>
 </div>
@@ -449,5 +449,5 @@ if(usePairingCode && !sock.authState.creds.registered) {
     </div>
   </div>
   
-  <p style="font-style: italic; max-width: 600px; margin: 0 auto;">Powered BY Malvin-baileys - The Ultimate WhatsApp Web API Experience</p> 
+  <p style="font-style: italic; max-width: 600px; margin: 0 auto;">Powered BY malvin-baileys - The Ultimate WhatsApp Web API Experience</p> 
 </div>
