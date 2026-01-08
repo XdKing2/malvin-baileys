@@ -68,7 +68,13 @@ or option2
     "@whiskeysockets/baileys": "github:XdKing2/malvin-baileys"
 }
 ```
-
+or option3
+### 📂 In package.json:
+```json
+"dependencies": {
+    "@whiskeysockets/baileys": "npm:malvin-baileys"
+}
+```
 
 ### ⚙️ Terminal Installation:
 ```bash
